@@ -1,0 +1,14 @@
+ls
+epylint
+sr
+cd ..
+ls
+cd ...
+s
+ls
+cd bin
+ls
+./activate
+more activate
+source activate
+ld

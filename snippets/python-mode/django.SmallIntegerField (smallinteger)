@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# This was cloned from a TextMate bundle for yasnippet.
+#name : SmallIntegerField (smallinteger)
+#group: django
+#key : smallinteger
+#condition: (when (boundp 'python-django-project-root) python-django-project-root)
+# --
+${1:FIELDNAME} = models.SmallIntegerField(${2:blank=True, null=True})

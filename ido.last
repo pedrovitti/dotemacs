@@ -1,0 +1,145 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/vitti/projetos/simrisc/simrisc/apps/sagi/" . "models/")
+ ("/home/vitti/projetos/simrisc/simrisc/templates/interface/" . "modal/")
+ ("/home/vitti/projetos/simrisc/simrisc/templates/" . "interface/")
+ ("/home/vitti/projetos/simrisc/simrisc/apps/contacts/templates/" . "contacts/")
+ ("/home/vitti/projetos/simrisc/simrisc/apps/contacts/" . "templates/")
+ ("/home/vitti/projetos/libmalelf/src/include/" . "malelf/")
+ ("/home/vitti/projetos/libmalelf/src/" . "include/")
+ ("/home/vitti/projetos/libmalelf/" . "test/")
+ ("/" . "home/")
+ ("/home/vitti/.emacs.d/el-get/" . "python/")
+ ("/home/vitti/projetos/simrisc/" . "simrisc/")
+ ("/home/vitti/projetos/simrisc/simrisc/apps/" . "sagi/")
+ ("/home/vitti/projetos/simrisc/simrisc/" . "apps/")
+ ("/home/vitti/projetos/" . "simrisc/")
+ ("/home/vitti/.emacs.d/" . "startup.d/")
+ ("/home/vitti/" . "projetos/")
+ ("/home/" . "vitti/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/vitti/projetos/simrisc/simrisc/"
+ "/home/vitti/.emacs.d/"
+ "/home/vitti/projetos/simrisc/simrisc/apps/sagi/models/"
+ "/home/vitti/projetos/simrisc/simrisc/apps/sagi/"
+ "/home/vitti/projetos/simrisc/simrisc/apps/"
+ "/home/vitti/projetos/simrisc/simrisc/apps/userprofile/"
+ "/home/vitti/projetos/simrisc/simrisc/apps/auth/"
+ "/home/vitti/projetos/simrisc/simrisc/apps/accounts/"
+ "/home/vitti/projetos/simrisc/simrisc/apps/contacts/"
+ "/home/vitti/projetos/simrisc/.git/hooks/"
+ "/home/vitti/projetos/simrisc/"
+ "/home/vitti/projetos/simrisc/simrisc/apps/contacts/templates/contacts/"
+ "/home/vitti/Desktop/"
+ "/home/vitti/projetos/simrisc/simrisc/templates/interface/"
+ "/home/vitti/projetos/simrisc/simrisc/templates/interface/modal/"
+ "/home/vitti/projetos/libmalelf/test/"
+ "/home/vitti/projetos/libmalelf/src/"
+ "/home/vitti/projetos/libmalelf/src/include/malelf/"
+ "/home/vitti/projetos/libmalelf/"
+ "/home/vitti/.emacs.d/startup.d/"
+ "/home/vitti/.emacs.d/el-get/python/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "models.py"
+ "init.el"
+ "move-lines.el"
+ "damage.py"
+ "__init__.py"
+ "disaster.py"
+ "document.py"
+ "media.py"
+ "documents.py"
+ "urls.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/vitti/.emacs.d/" (20899 47054 0 0) "../" "move-lines.el" "init.elc" "ido.last" "alias.el" "conf/" "undo-tree.el" "bin/" "eshell/" "startup.d/" "./" ".git/" "snippets/" "ac-comphist.dat" ".gitignore" "README.org" "init.el" "customizations.el" "history" "auto-save-list/" "var/" "el-get/" "move-lines.elc")
+
+ ("/home/vitti/" (20899 47054 0 0) "../" ".esd_auth" ".purple/" ".squirrel-sql/" ".gitignore~" ".fontconfig/" ".gnome2_private/" ".gitk" "Dropbox/" ".lesshst" ".dropbox/" ".bashrc" ".emacs.d/" ".mozilla/" ".ICEauthority" ".gnome2/" ".pgadmin3" ".pki/" ".ssh/" ".xsession-errors.old" ".java/" "pydiction-1.2.1.zip" ".kde/" ".viminfo" ".pgadmin_histoqueries" ".vim/" ".cpan/" ".icons/" "Videos/" ".gnash/" ".bash_history" ".aptitude/" ".profile" ".gksu.lock" "./" ".pulse/" ".cache/" "Documents/" ".thumbnails/" ".evolution/" ".tor/" ".vidalia/" ".xsession-errors" ".gitconfig" ".pip/" ".gbas" ".gconfd/" ".gitignore" ".pylint.d/" ".bash_aliases" ".gvfs/" ".bash_logout" "pydiction-1.2.1/" ".config/" "Music/" ".vimrc" ".gbas.so_u" ".mission-control/" ".gtk-bookmarks" ".recently-used" ".pulse-cookie" ".neocon/" "Desktop/" ".subversion/" ".gbas.so" "Downloads/" ".themes/" ".dia/" ".dbus/" "Public/" "Pictures/" ".smex-items" ".gstreamer-0.10/" ".gnupg/" ".bzr.log" ".update-notifier/" "projetos/" "Templates/" ".psql_history" ".local/" ".dropbox-dist/" ".0gbas.so_u" ".pgpass" ".gconf/")
+
+ ("/home/vitti/projetos/simrisc/simrisc/templates/interface/modal/" (20899 25991 0 0) "../" "change_contact_data.html" "change_personal_data.html" "change_contact_form.html" "./" "change_password.html")
+
+ ("/home/vitti/projetos/simrisc/simrisc/templates/interface/" (20899 25991 0 0) "icons.html" "../" "menuDisaster.html" "tab-tools/" "tab-search.html" "tab-info.html" "./" "interface-css.html" "tab-search/" "tab-tools.html" "bootstrap-css.html" "tab-info/" "menu.html" "login/" "modal/" "bootstrap-script.html")
+
+ ("/home/vitti/Desktop/" (20899 44386 0 0) "../" "Google Chrome.desktop" "Proxy UFSC-1.desktop" "Grooveshark.desktop" "diagramas/" "./" "teste.py~" "Create New Shortcut.desktop" "proxyUFSC.sh~")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/contacts/templates/contacts/" (20894 27079 0 0) "../" "update.html" "index.html" "create.html" "./" "search.html" "delete.html")
+
+ ("/home/vitti/projetos/simrisc/" (20894 28220 0 0) "../" "local/" "README" "lib/" "test.py" "bin/" "manage.py" "./" "simrisc/" ".git/" ".gitignore" "requeriments.txt" "include/" "share/" ".dir-locals.el")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/contacts/" (20899 25848 0 0) "views.py" "__init__.py" "../" "__init__.pyc" "templates/" "tests.py" "./" "forms.py" "urls.py" "models.pyc" "views.pyc" "admin.pyc" "forms.pyc" "urls.pyc" "admin.py" "models.py")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/accounts/" (20899 25991 0 0) "views.py" "__init__.py" "../" "__init__.pyc" "templates/" "tests.py" "utils.pyc" "./" "urls.py" "models.pyc" "views.pyc" "utils.py" "urls.pyc" "models.py")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/auth/" (20894 27132 0 0) "views.py" "__init__.py" "../" "__init__.pyc" "tests.py" "./" "urls.py" "models.pyc" "views.pyc" "urls.pyc" "models.py")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/userprofile/" (20899 25991 0 0) "views.py" "__init__.py" "../" "__init__.pyc" "templates/" "tests.py" "./" "urls.py" "models.pyc" "views.pyc" "utils.py" "urls.pyc" "models.py")
+
+ ("/home/vitti/projetos/simrisc/simrisc/" (20899 46857 0 0) "__init__.py" "../" "__init__.pyc" "static/" "admin/" "templates/" "sagi/" "middleware/" "utils.pyc" "locale/" "errors.py" "apps/" "wsgi.pyc" "errors.pyc" "./" "urls.py" "simepol/" "defines.py" "defines.pyc" "util/" "wsgi.py" "settings.pyc" "utils.py" "settings.py" "urls.pyc" "models.py")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/" (20899 46827 0 0) "views.py" "__init__.py" "../" "__init__.pyc" "sagi/" "tests.py" "auth/" "./" "mail/" "models.pyc" "accounts/" "contacts/" "userprofile/")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/sagi/" (20899 45329 0 0) "../" "__init__.pyc" "./" "models/")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/sagi/models/" (20899 45329 0 0) "../" "__init__.pyc" "./" "media.pyc" "damage.pyc" "document.pyc" "disaster.pyc")
+
+ ("/home/vitti/projetos/simrisc/.git/hooks/" (20893 6825 0 0) "../" "./" ".git/")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/sagi/disaster/" (20891 26213 0 0) "views.py" "__init__.py" "../" "__init__.pyc" "tests.py" "./" "models.pyc" "views.pyc" "models.py")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/mail/" (20891 24895 0 0) "views.py" "__init__.py" "../" "__init__.pyc" "tests.py" "./" "models.pyc" "views.pyc" "models.py")
+
+ ("/home/vitti/projetos/simrisc/.git/" (20892 55865 0 0) "branches/" "../" "FETCH_HEAD" "index" "./" "HEAD" "hooks/" "config" "logs/" "objects/" "info/" "packed-refs" "description" "refs/" "COMMIT_EDITMSG")
+
+ ("/home/vitti/.emacs.d/el-get/jedi/" (20883 62976 0 0) "../" "jedi.el" "env/" "Carton" "jediepcserver.py" "test_jediepcserver.py" ".gitmodules" "./" "Makefile" "tools/" ".git/" ".travis.yml" ".gitignore" "test-jedi.el" "requirements.txt" "doc/" "README.rst" "tryout-jedi.el")
+
+ ("/home/vitti/projetos/simrisc/simrisc/templates/" (20883 51331 0 0) "../" "misc/" "sagi/" "auth/" "./" "interface/" "home/" "accounts/" "administration/" "profile/")
+
+ ("/home/vitti/.emacs.d/startup.d/" (20886 13864 0 0) "../" "99bindings.el" "00functions.el" "50terminal.el" "50dired.el" "50emerge.el" "50vc.el" "./" "50whitespace.el" "50rcirc.el" "00appareance.el" "99bindings.elc" "99global.el" "50flymake.el" "50ibuffer.el")
+
+ ("/home/vitti/projetos/libmalelf/" (20890 4490 0 0) "test/" "../" "examples/" "configure.ac" "config.guess" "stamp-h1" "README" "config.h" "install-sh" "ChangeLog" "missing" "config.h.in" "LICENSE.txt" "INSTALL" "configure" "autoscan.log" "Makefile.am" "libtool" "config.sub" "COPYING" "./" "config.status" "Makefile" "src/" "Makefile.in" ".git/" "README.md" ".gitignore" "aclocal.m4" "AUTHORS" "NEWS" "depcomp" "ltmain.sh" "m4/" "config.log")
+
+ ("/home/vitti/projetos/libmalelf/src/include/malelf/" (20890 4490 0 0) "../" "phdr.h" "report.h" "error.h~" "debug.h" "./" "shdr.h" "types.h" "defines.h~" "binary.h" "util.h" "defines.h" "table.h" "binary.h~" "util.h~" "error.h" "ehdr.h" "shellcode.h" "shdr.h~")
+
+ ("/home/vitti/projetos/libmalelf/src/" (20890 4490 0 0) "../" "phdr.c" "shdr.c~" "table.o" "libmalelf.la" "error.lo" "phdr.lo" "ehdr.o" ".libs/" "ehdr.c" ".deps/" "Makefile.am" "binary.o" "report.c" "report.lo" "binary.lo" "binary.c" "report.o" "./" "shellcode.lo" "Makefile" "shellcode.o" "Makefile.in" "report.c~" "ehdr.lo" "shdr.o" "shdr.c" "debug.c" "table.lo" "shellcode.c" "util.c" "table.c~" "util.c~" "include/" "phdr.o" "table.c" "shdr.lo" "util.o" "error.c" "error.o" "util.lo")
+
+ ("/home/vitti/projetos/libmalelf/test/" (20890 4490 0 0) "../" "report_test.c" ".libs/" ".deps/" "Makefile.am" "ehdr_test.h" "./" "Makefile" "Makefile.in" "binary_test.c" "bintest/" "debug_test.c" "tmp/" "main_test.c" "binary_test.h" "main_test" "report_test.h" "ehdr_test.c")
+
+ ("/home/vitti/projetos/simrisc/simrisc/apps/contacts/templates/" (20883 51331 0 0) "../" "./" "contacts/")
+
+ ("/home/vitti/projetos/libmalelf/src/include/" (20886 10173 0 0) "../" "./" "malelf/")
+
+ ("/home/vitti/projetos/" (20886 10169 0 0) "../" "djangoproject.com/" "./" "simrisc/" "simrisc-svn/" "libmalelf/" "archweb/" "nodeshot/" "django-cms/")
+
+ ("/home/vitti/.emacs.d/el-get/python/" (20885 5151 0 0) "../" "LICENSE" "./" ".git/" "python.el" "README.org" "python.elc")
+
+ ("/home/vitti/.emacs.d/el-get/" (20883 63559 0 0) "full-ack/" "../" "logito/" "gh/" "jquery-doc/" "pcache/" "markdown-mode/" ".status.el.old" "magit/" "scss-mode/" "coffee-mode/" "clojure-mode/" "base16-themes/" "ac-nrepl/" ".loaddefs.elc" "region-bindings-mode/" "rainbow-mode/" "yasnippet/" "ace-jump-mode/" "mu4e/" "popup/" "gist/" "auto-complete/" "smex/" "tabulated-list/" "lua-mode/" "deferred/" "./" "deft/" "ctable/" "startupd/" "epc/" "undo-tree/" "python/" ".loaddefs.el~" "nrepl/" "fuzzy/" "package/" "zencoding-mode/" "yaml-mode/" "expand-region/" "dired-details/" ".status.el" ".loaddefs.el" "smart-tab/" "multiple-cursors/" "php-mode-improved/" "async/" "el-get/" "paredit/" "jedi/" "python-django/" "multi-web-mode/")
+
+ ("/home/vitti/projetos/simrisc-svn/" (20881 7828 0 0) "branches/" "../" "local/" "lib/" "tags/" "bin/" ".svn/" "./" "git/" "trunk/" "include/")
+
+ ("/home/" (20853 19543 0 0) "../" "./" "vitti/" "lost+found/")
+
+ ("/usr/" (20883 56343 0 0) "share/" "libexec/" "local/" "lib/" "./" "sbin/" "var/" "src/" "../" "include/" "bin/" "games/")
+
+ ("/usr/share/" (20883 59321 0 0) "pyshared-data/" "gtksourceview-2.0/" "xulrunner-17.0/" "foomatic/" "docky/" "postgresql-9.1-postgis/" "gtksourceview-3.0/" "liblouis/" "gstreamer-0.10/" "tracker/" "misc/" "intltool-debian/" "gnome/" "netpbm/" "javascript/" "gnome-screenshot/" "postgresql-common/" "mutter/" "apt-xapian-index/" "ant/" "adduser/" "yelp-xsl/" "gnome-background-properties/" "cdbs/" "gtkhtml-4.0/" "wwwconfig-common/" "idl/" "texinfo/" "gnupg/" "gvfs/" "ncat/" "gconf-editor/" "groff/" "python/" "apt-listchanges/" "glib-2.0/" "python-support/" "build-essential/" "nm-applet/" "mono/" "consolefonts/" "apport/" "thumbnailers/" "alsa-base/" "nautilus/" "mobile-broadband-provider-info/" "mousetweaks/" "aspell/" "xml/" "nautilus-dropbox/" "X11/" "dconf-editor/" "gdb/" "caribou/" "fonts/" "snmp/" "ssh/" "gcr-3/" "cdrdao/" "readline/" "tools/" "pkg-config-crosswrapper" "evolution/" "file/" "zenity/" "tasksel/" "doc-base/" "gksu/" "gnome-panel/" "dotnet/" "sgml-base/" "vim/" "gnome-nettool/" "brasero/" "gedit/" "console-setup/" "debconf/" "pulseaudio/" "i18n/" "doc/" "directfb-1.2.10/" "lintian/" "ppd/" "upstart/" "maven-repo/" "pnm2ppa/" "cli-common/" "emacs/" "gnome-settings-daemon/" "ppp/" "cheese/" "geoclue-providers/" "libthai/" "os-prober/" "dpkg/" "plymouth/" "webkitgtk-1.0/" "consoletrans/" "bash-completion/" "proj/" "mime-info/" "myspell/" "vte/" "python-apt/" "postgresql/" "evince/" "seed-gtk3/" "update-manager/" "purple/" "tcltk/" "gnome-doc-utils/" "wallpapers/" "ssl-cert/" "binfmts/" "lensfun/" "sysv-rc/" "libwacom/" "zoneinfo/" "liferea/" "evolution-exchange/" "apmd/" "base-passwd/" "apt-file/" "icons/" "base-files/" "gdebi/" "icedtea-web/" "libgksu/" "cups/" "m2300w/" "libreoffice/" "applications/" "gettext/" "polkit-1/" "apps/" "djvu/" "info/" "nfs-common/" "midi/" "sushi/" "libquvi-scripts/" "yelp/" "nmap/" "menu/" "man-db/" "texmf/" "gnome-2.0/" "gnash/" "mx/" "gjs-1.0/" "mono-2.0/" "python-virtualenv/" "sysvinit/" "gutenprint/" "pygtk/" "samba/" "ImageMagick-6.7.7/" "pgadmin3/" "usb_modeswitch/" "automake-1.11/" "git-core/" "hal/" "mibs/" "gnome-js/" "libvisual-plugins-0.4/" "printer-driver-escpr/" "man/" "pkgconfig/" "kde4/" "omf/" "avahi/" "libaudio2/" "kerneloops/" "librarian/" "metacity/" "aptitude/" "desktop-base/" "eog/" "epiphany-extensions/" "ca-certificates/" "images/" "m17n/" "libgweather/" "xml-core/" "et/" "GConf/" "application-registry/" "gst-plugins-base/" "aclocal/" "aclocal-1.11/" "gtk-engines/" "initramfs-tools/" "pstoedit/" "dict/" "sgml/" "totem/" "inkscape/" "pam/" "glade3/" "epiphany-browser/" "ca-certificates-java/" "libnm-gtk/" "gnome-terminal/" "graphviz/" "alacarte/" "app-install/" "evolution-data-server-3.4/" "dbus-1/" "pycentral-data/" "bug/" "foo2qpdl/" "installation-report/" "perl5/" "gitweb/" "ghostscript/" "po-debconf/" "sgml-data/" "gnome-session/" "poppler/" "locale/" "pixmaps/" "alsa/" "PackageKit/" "sounds/" "foo2zjs/" "desktop-directories/" "gnome-power-manager/" "libgnomekbd/" "cogl/" "hplip/" "libtool/" "iptables/" "pyshared/" "libexttextcat/" "libgphoto2/" "enchant/" "system-config-printer/" "nautilus-sendto/" "keyrings/" "tabset/" "hwdata/" "calendar/" "synaptic/" "farstream/" "javazi/" "cvs/" "acpi-support/" "gdm/" "gimp/" "gconf/" "libc-bin/" "dasher/" "bsd-mailx/" "dictionaries-common/" "gok/" "hunspell/" "terminfo/" "tor/" "iceweasel/" "gst-python/" "gnuplot/" "xserver-xorg/" "GeoIP/" "webkitgtk-3.0/" "mime/" "autoconf/" "dia/" "libsensors4/" "insserv/" "discover/" "gtk-doc/" "debhelper/" "reportbug/" "mimelnk/" "perl/" "pam-configs/" "xsessions/" "qt4/" "java/" "nano/" "gitk/" "help/" "color/" "w3m/" "git-gui/" "zsh/" "themes/" "libsocialweb/" "mozilla/" "sane/" "debianutils/" "numpy/" "gnome-control-center/" "grub/" "gnome-shell/" "gir-1.0/" "common-licenses/" "../" "./")
+
+ ("/usr/share/emacs/" (20883 56319 0 0) "./" "24.3.50/" "site-lisp/" "../")
+
+ ("/usr/share/emacs/24.3.50/" (20883 56329 0 0) "./" "leim/" "site-lisp/" "lisp/" "etc/" "../")
+
+ ("/usr/share/emacs/24.3.50/lisp/" (20883 56340 0 0) "pcomplete.elc" "sb-image.elc" "hippie-exp.el.gz" "wid-edit.el.gz" "printing.el.gz" "disp-table.elc" "info-xref.el.gz" "isearch.elc" "savehist.el.gz" "shadowfile.elc" "disp-table.el.gz" "pcmpl-gnu.el.gz" "image-dired.elc" "hexl.el.gz" "autoarg.elc" "midnight.elc" "newcomment.el.gz" "novice.elc" "tree-widget.el.gz" "echistory.elc" "mouse-drag.elc" "README" "repeat.elc" "rot13.elc" "format.el.gz" "vcursor.elc" "dired-aux.el.gz" "bookmark.elc" "iimage.el.gz" "time.el.gz" "outline.elc" "version.elc" "t-mouse.elc" "paren.el.gz" "term.el.gz" "imenu.elc" "kmacro.el.gz" "dframe.elc" "woman.el.gz" "avoid.el.gz" "w32-fns.elc" "subr.el.gz" "button.elc" "info-xref.elc" "savehist.elc" "pcmpl-x.elc" "epg.elc" "lpr.el.gz" "proced.elc" "whitespace.el.gz" "x-dnd.elc" "allout-widgets.el.gz" "align.elc" "tmm.elc" "find-lisp.el.gz" "epg-config.elc" "minibuffer.elc" "facemenu.elc" "ido.el.gz" "wdired.elc" "org/" "notifications.el.gz" "calc/" "ps-mule.elc" "printing.elc" "menu-bar.el.gz" "emacs-lock.elc" "pcmpl-gnu.elc" "x-dnd.el.gz" "delim-col.el.gz" "jka-compr.el.gz" "w32-common-fns.elc" "fringe.el.gz" "dos-vars.el.gz" "cedet/" "epa-file.el.gz" "hilit-chg.elc" "frame.elc" "icomplete.elc" "speedbar.el.gz" "calculator.el.gz" "vt100-led.el.gz" "epg-config.el.gz" "buff-menu.el.gz" "ps-samp.elc" "finder.el.gz" "elide-head.el.gz" "cus-theme.el.gz" "mouse.elc" "replace.el.gz" "dnd.el.gz" "generic-x.el.gz" "shadowfile.el.gz" "tempo.elc" "apropos.elc" "midnight.el.gz" "sort.elc" "dos-fns.elc" "ruler-mode.el.gz" "hexl.elc" "windmove.elc" "chistory.elc" "paren.elc" "skeleton.elc" "misearch.el.gz" "dnd.elc" "iimage.elc" "gs.el.gz" "cus-theme.elc" "woman.elc" "scroll-lock.el.gz" "format-spec.el.gz" "dabbrev.elc" "thumbs.el.gz" "minibuffer.el.gz" "soundex.elc" "iswitchb.el.gz" "obsolete/" "info.el.gz" "emulation/" "tabify.elc" "allout-widgets.elc" "image-mode.elc" "ibuf-ext.elc" "type-break.elc" "wdired.el.gz" "kmacro.elc" "mail/" "abbrev.el.gz" "rect.elc" "thumbs.elc" "scroll-bar.elc" "comint.el.gz" "ezimage.elc" "cus-dep.el.gz" "shell.el.gz" "ielm.el.gz" "finder.elc" "notifications.elc" "electric.el.gz" "dirtrack.elc" "foldout.el.gz" "delsel.elc" "uniquify.elc" "linum.el.gz" "ps-bdf.el.gz" "filesets.elc" "makesum.el.gz" "server.el.gz" "startup.el.gz" "delsel.el.gz" "master.el.gz" "epa.el.gz" "dos-w32.el.gz" "lpr.elc" "vt-control.elc" "dabbrev.el.gz" "time-stamp.elc" "cus-face.el.gz" "epa.elc" "edmacro.el.gz" "windmove.el.gz" "pcmpl-rpm.el.gz" "gs.elc" "ls-lisp.elc" "reveal.el.gz" "ses.el.gz" "wid-edit.elc" "locate.elc" "loadup.el" "play/" "linum.elc" "desktop.el.gz" "double.el.gz" "case-table.elc" "pcmpl-x.el.gz" "scroll-all.el.gz" "simple.elc" "language/" "ibuf-macs.el.gz" "ps-print.elc" "files.el.gz" "rfn-eshadow.el.gz" "cus-start.el.gz" "dired.elc" "faces.elc" "hex-util.el.gz" "json.elc" "epa-mail.elc" "doc-view.el.gz" "ruler-mode.elc" "dirtrack.el.gz" "allout.el.gz" "cdl.elc" "pcmpl-linux.elc" "master.elc" "desktop.elc" "button.el.gz" "select.elc" "startup.elc" "help.elc" "pcmpl-unix.elc" "flow-ctrl.elc" "misearch.elc" "expand.elc" "pcomplete.el.gz" "format-spec.elc" "ps-def.elc" "cus-edit.el.gz" "imenu.el.gz" "url/" "rect.el.gz" "find-file.el.gz" "register.el.gz" "mpc.elc" "tutorial.elc" "info-look.elc" "jit-lock.el.gz" "skeleton.el.gz" "view.elc" "calculator.elc" "case-table.el.gz" "cmuscheme.elc" "double.elc" "kermit.el.gz" "window.elc" "cus-start.elc" "widget.el.gz" "misc.elc" "font-core.el.gz" "array.el.gz" "thingatpt.elc" "jka-cmpr-hook.el.gz" "dired-aux.elc" "hippie-exp.elc" "password-cache.elc" "arc-mode.el.gz" "kermit.elc" "tar-mode.el.gz" "soundex.el.gz" "composite.el.gz" "loaddefs.el" "avoid.elc" "shell.elc" "bs.elc" "newcomment.elc" "chistory.el.gz" "loadhist.elc" "ansi-color.elc" "reveal.elc" "thingatpt.el.gz" "ehelp.el.gz" "delim-col.elc" "tempo.el.gz" "version.el.gz" "epa-mail.el.gz" "help-at-pt.elc" "epa-dired.el.gz" "w32-fns.el.gz" "subr.elc" "apropos.el.gz" "cus-load.el" "pcmpl-linux.el.gz" "rfn-eshadow.elc" "t-mouse.el.gz" "autoinsert.el.gz" "forms.el.gz" "uniquify.el.gz" "man.el.gz" "wid-browse.el.gz" "international/" "indent.el.gz" "finder-inf.el" "outline.el.gz" "COPYING" "server.elc" "saveplace.el.gz" "mb-depth.elc" "timezone.el.gz" "tool-bar.elc" "mwheel.el.gz" "help-at-pt.el.gz" "term.elc" "files.elc" "ldefs-boot.el" "cus-edit.elc" "autoarg.el.gz" "xml.elc" "hfy-cmap.elc" "completion.elc" "mb-depth.el.gz" "nxml/" "iswitchb.elc" "ps-mule.el.gz" "w32-vars.el.gz" "faces.el.gz" "informat.el.gz" "eshell/" "dired-x.el.gz" "ps-print.el.gz" "image-file.elc" "dos-w32.elc" "dired.el.gz" "image-dired.el.gz" "tooltip.elc" "pcmpl-cvs.elc" "macros.elc" "ebuff-menu.el.gz" "simple.el.gz" "macros.el.gz" "epa-dired.elc" "files-x.el.gz" "net/" "ebuff-menu.elc" "find-file.elc" "color.el.gz" "hl-line.el.gz" "expand.el.gz" "follow.elc" "rot13.el.gz" "image.el.gz" "tar-mode.elc" "generic-x.elc" "hi-lock.el.gz" "htmlfontify.elc" "talk.el.gz" "mouse.el.gz" "help-macro.el.gz" "filesets.el.gz" "ffap.el.gz" "htmlfontify.el.gz" "battery.el.gz" "msb.el.gz" "timezone.elc" "help.el.gz" "gnus/" "erc/" "subdirs.el" "forms.elc" "composite.elc" "help-mode.el.gz" "help-fns.el.gz" "epa-hook.el.gz" "json.el.gz" "userlock.el.gz" "ido.elc" "cdl.el.gz" "elide-head.elc" "bookmark.el.gz" "bs.el.gz" "bindings.elc" "dired-x.elc" "find-dired.elc" "pcmpl-cvs.el.gz" "password-cache.el.gz" "scroll-bar.el.gz" "time-stamp.el.gz" "textmodes/" "align.el.gz" "emacs-lock.el.gz" "vt100-led.elc" "ps-bdf.elc" "scroll-all.elc" "indent.elc" "array.elc" "ibuf-ext.el.gz" "info.elc" "ps-def.el.gz" "ls-lisp.el.gz" "face-remap.elc" "winner.elc" "info-look.el.gz" "abbrev.elc" "ibuffer.elc" "env.elc" "md4.elc" "speedbar.elc" "scroll-lock.elc" "wid-browse.elc" "epa-file.elc" "recentf.el.gz" "hilit-chg.el.gz" "mpc.el.gz" "edmacro.elc" "strokes.elc" "hl-line.elc" "flow-ctrl.el.gz" "menu-bar.elc" "cmuscheme.el.gz" "buff-menu.elc" "hi-lock.elc" "custom.el.gz" "electric.elc" "isearchb.elc" "xt-mouse.elc" "mouse-copy.el.gz" "follow.el.gz" "misc.el.gz" "talk.elc" "vc/" "saveplace.elc" "informat.elc" "pcmpl-rpm.elc" "register.elc" "progmodes/" "image-file.el.gz" "winner.el.gz" "isearch.el.gz" "ibuffer.el.gz" "tutorial.el.gz" "pcmpl-unix.el.gz" "xt-mouse.el.gz" "tmm.el.gz" "find-dired.el.gz" "filecache.elc" "help-mode.elc" "fringe.elc" "doc-view.elc" "calendar/" "ibuf-macs.elc" "filecache.el.gz" "whitespace.elc" "ielm.elc" "help-macro.elc" "mouse-copy.elc" "minibuf-eldef.elc" "mh-e/" "window.el.gz" "icomplete.el.gz" "ses.elc" "find-lisp.elc" "ffap.elc" "jka-compr.elc" "completion.el.gz" "makesum.elc" "dynamic-setting.el.gz" "widget.elc" "custom.elc" "font-lock.elc" "ansi-color.el.gz" "xml.el.gz" "dos-fns.el.gz" "msb.elc" "tree-widget.elc" "ezimage.el.gz" "autorevert.el.gz" "cus-dep.elc" "sb-image.el.gz" "tooltip.el.gz" "term/" "autorevert.elc" "descr-text.elc" "dframe.el.gz" "md4.el.gz" "vcursor.el.gz" "facemenu.el.gz" "reposition.el.gz" "locate.el.gz" "allout.elc" "help-fns.elc" "cus-face.elc" "type-break.el.gz" "proced.el.gz" "dynamic-setting.elc" "epg.el.gz" "face-remap.el.gz" "minibuf-eldef.el.gz" "novice.el.gz" "foldout.elc" "arc-mode.elc" "env.el.gz" "image.elc" "sort.el.gz" "font-core.elc" "strokes.el.gz" "tabify.el.gz" "jka-cmpr-hook.elc" "select.el.gz" "reposition.elc" "ehelp.elc" "descr-text.el.gz" "files-x.elc" "tool-bar.el.gz" "loadhist.el.gz" "find-cmd.elc" "recentf.elc" "profiler.elc" "ps-samp.el.gz" "vt-control.el.gz" "dos-vars.elc" "battery.elc" "replace.elc" "hex-util.elc" "comint.elc" "format.elc" "mwheel.elc" "profiler.el.gz" "image-mode.el.gz" "autoinsert.elc" "echistory.el.gz" "emacs-lisp/" "bindings.el.gz" "w32-vars.elc" "mouse-drag.el.gz" "time.elc" "userlock.elc" "epa-hook.elc" "repeat.el.gz" "jit-lock.elc" "color.elc" "frame.el.gz" "man.elc" "isearchb.el.gz" "hfy-cmap.el.gz" "view.el.gz" "font-lock.el.gz" "w32-common-fns.el.gz" "find-cmd.el.gz" "../" "./")
+
+ ("/usr/share/emacs/24.3.50/lisp/international/" (20883 56336 0 0) "mule-diag.el.gz" "README" "uni-lowercase.el" "uni-category.el" "titdic-cnv.elc" "mule-cmds.el.gz" "./" "iso-ascii.elc" "uni-old-name.el" "mule-cmds.elc" "fontset.elc" "utf-7.el.gz" "iso-cvt.elc" "uni-decomposition.el" "kinsoku.elc" "uni-comment.el" "mule-util.elc" "mule-diag.elc" "iso-transl.elc" "uni-bidi.el" "iso-ascii.el.gz" "mule-conf.elc" "quail.elc" "eucjp-ms.el" "latin1-disp.el.gz" "uni-digit.el" "isearch-x.elc" "mule.el.gz" "characters.elc" "uni-numeric.el" "ucs-normalize.el.gz" "iso-cvt.el.gz" "ccl.elc" "ogonek.elc" "kkc.elc" "uni-titlecase.el" "ja-dic-cnv.el.gz" "characters.el.gz" "uni-decimal.el" "kinsoku.el.gz" "fontset.el.gz" "ja-dic-cnv.elc" "kkc.el.gz" "uni-uppercase.el" "robin.el.gz" "latexenc.el.gz" "titdic-cnv.el.gz" "charprop.el" "cp51932.el" "latexenc.elc" "../" "mule-util.el.gz" "quail.el.gz" "uni-combining.el" "latin1-disp.elc" "ja-dic-utl.el.gz" "mule.elc" "isearch-x.el.gz" "utf-7.elc" "ucs-normalize.elc" "uni-mirrored.el" "iso-transl.el.gz" "ogonek.el.gz" "ja-dic-utl.elc" "uni-name.el" "mule-conf.el.gz" "robin.elc" "ccl.el.gz")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
