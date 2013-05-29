@@ -63,7 +63,7 @@
                  :type github
                  :pkgname "fgallina/region-bindings-mode"
                  :features region-bindings-mode)
-
+	  )
         el-get-user-package-directory "~/.emacs.d/conf")
 
   (setq my:el-get-packages
@@ -133,8 +133,3 @@
 
   (load "~/.emacs.d/alias.pl" 'noerror)
 
-
-  ;Move lines up and down
-  (load "~/.emacs.d/move-lines.pl" 'noerror)
-
-  (global-linum-mode t)
